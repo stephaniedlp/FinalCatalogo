@@ -5,19 +5,13 @@ Realizar una página web en Python + Flask que permita explorar o buscar en el c
 
 Sitio principal (Inicio):
 
-Barra de menú con logotipo de la Universidad
-
-Inicio
-
-Explorar
-
-Barra de Búsqueda
-
-Créditos
-
-Breve introducción al sitio
-
-Explorar
+  Barra de menú con logotipo de la Universidad
+  Inicio
+  Explorar
+  Barra de Búsqueda
+  Créditos
+  Breve introducción al sitio
+  Explorar
 
 Mostrar un abecedario con hipervínculos, que lleven a una sección con palabras que inicien con la letra seleccionada (las palabras provienen de los títulos de las revistas). Al dar click en una palabra, que muestre una nueva página que lista una tabla de revistas que contengan esa palabra. En el listado deben aparecer el título de la revista, así como los catálogos a los que pertenece y al menos su Factor de impacto. Al dar click en el nombre de la revista, deberá mostrar toda la información relacionada a ella.
 
